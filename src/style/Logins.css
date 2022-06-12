@@ -1,0 +1,113 @@
+.Loginbox {
+    height: 500px;
+    width: 500px;
+    background-color: aliceblue;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    border-radius: 10px;
+}
+
+.Userlogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    cursor: none;
+}
+/* .App{
+    display: flex;
+     justify-content: center; 
+     align-items: center; 
+} */
+.User {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 180px;
+    font-size: xx-large;
+    font-weight: bolder;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.Email {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: x-large;
+    padding-left: 20px;
+}
+
+.Emailtext {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+
+}
+
+.Emailinputtext {
+    padding: 10px;
+    width: 400px;
+    border-radius: 80px;
+}
+
+.Loginbutton {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+button {
+    height: 50px;
+    width: 200px;
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 70px;
+}
+
+button:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.95);
+    color: green;
+}
+
+.Forget {
+    height: 35px;
+    font-size: larger;
+    font-weight: 700;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.Notaccount {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.Account {
+    height: 35px;
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+.Signup {
+    font-size: larger;
+    font-weight: 700;
+    padding-left: 20px;
+    color: green;
+    display: flex;
+    align-items: center;
+    height: 35px;
+    margin-left: -15px;
+}
+
+.Signup:hover {
+    color: blue;
+}

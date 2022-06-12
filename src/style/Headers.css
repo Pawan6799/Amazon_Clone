@@ -1,0 +1,167 @@
+.header {
+    background-color: rgb(26, 25, 25);
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.images {
+    height: 50px;
+    width: 140px;
+    padding: 5px;
+}
+
+.imagebox {
+    height: 45px;
+    width: 140px;
+}
+
+.Adress {
+    height: 50px;
+    width: 180px;
+    padding: 5px;
+}
+
+.Hello {
+    height: 20px;
+    width: 100px;
+    color: white;
+    margin-left: 30px;
+    font-weight: 300;
+}
+
+.Selectadd {
+    width: 185px;
+    display: flex;
+}
+
+.Icon {
+    height: 15px;
+    width: 25px;
+    font-size: 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.Selects {
+    font-weight: 900;
+    font-size: medium;
+    color: white;
+}
+
+.Searchbox {
+    height: 50px;
+    width: 620px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+
+}
+
+.Searchinput {
+    height: 40px;
+    width: 600px;
+}
+
+.Searchicon {
+    height: 45px;
+    width: 50px;
+    background-color: #FF9900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-left: -50px;
+}
+
+.Flag {
+    height: 50px;
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageindiabox {
+    height: 20px;
+    width: 30px;
+}
+
+.Accounts {
+    height: 45px;
+    width: 130px;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.Signin {
+    height: 20px;
+    color: white;
+    font-weight: 300;
+}
+ .Signin:hover{
+    color: #FF9900;
+} 
+
+.AccountList {
+    font-weight: 900;
+    font-size: medium;
+    color: white;
+}
+
+.Returns {
+    height: 45px;
+    width: 80px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.Cart {
+    height: 40px;
+    width: 90px;
+    padding: 5px;
+    margin-right: 0;
+    /* background-color: red; */
+    display: flex;
+}
+
+.imagecart {
+    height: 40px;
+    width: 40px;
+}
+
+.Carts {
+    color: white;
+    font-weight: 800;
+    font-size: medium;
+    margin-top: 18px;
+    height: 25px;
+    width: 37px;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* position: absolute; */
+}
+.Carts:hover{
+    color: #FF9900;
+}
+.count{
+    /* position: relative; */
+    height: 18px;
+    width: 18px;
+    color:tomato;
+    font-weight: 900;
+    font-size: medium;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: blue; */
+}
